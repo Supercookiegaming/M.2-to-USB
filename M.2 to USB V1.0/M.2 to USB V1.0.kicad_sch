@@ -7660,7 +7660,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Component Library:G821EU210AAL10Y"
 			(at 137.16 107.95 0)
 			(effects
 				(font

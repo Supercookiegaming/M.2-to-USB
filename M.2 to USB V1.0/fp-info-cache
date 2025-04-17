@@ -1,4 +1,4 @@
-25308037340388423
+25309782258638541
 Athena KiCAd library
 mousebite
 
@@ -6558,6 +6558,13 @@ APX809-SR
 0
 3
 3
+Component Library
+G821EU210AAL10Y
+Through hole IDC box header, 2x05, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0
+Through hole vertical IDC box header THT 2x05 2.54mm double row
+0
+9
+9
 Component Library
 NGFF_A+E
 
