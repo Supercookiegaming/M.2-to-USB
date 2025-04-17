@@ -71,7 +71,7 @@
 		(size 5.5 5.5)
 		(drill 3.5)
 		(property pad_prop_castellated)
-		(layers "*.Cu" "F.Mask" "F.Paste")
+		(layers "*.Cu" "F.Mask")
 		(remove_unused_layers no)
 		(uuid "5442d10a-37c3-49db-8f24-a8fcd70ddb3a")
 	)

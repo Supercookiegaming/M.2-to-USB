@@ -1,4 +1,4 @@
-25309782258638541
+25311527191047857
 Athena KiCAd library
 mousebite
 
@@ -6607,6 +6607,13 @@ Power Supply
 0
 7
 7
+Component Library
+USB 2.0 Front Header
+Through hole straight pin header, 2x05, 2.54mm pitch, double rows
+Through hole pin header THT 2x05 2.54mm double row
+0
+9
+9
 Component Library
 Untitled
 

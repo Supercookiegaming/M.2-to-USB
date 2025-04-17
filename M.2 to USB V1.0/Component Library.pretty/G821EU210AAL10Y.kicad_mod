@@ -449,7 +449,7 @@
 		(uuid "7c4a2a1b-2e66-4968-942f-5aae300ea8ad")
 	)
 	(pad "9" thru_hole circle
-		(at 2.54 10.16)
+		(at 0 10.16)
 		(size 1.7 1.7)
 		(drill 1)
 		(layers "*.Cu" "*.Mask")
@@ -457,15 +457,15 @@
 		(uuid "3e2feb98-a356-47d6-b24c-c551db920281")
 	)
 	(embedded_fonts no)
-	(model "${KICAD9_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x05_P2.54mm_Vertical.wrl"
+	(model "${KIPRJMOD}/Component Library/G821EU210AAL10Y.stp"
 		(offset
-			(xyz 0 0 0)
+			(xyz 1.27 5.1 9)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz 90 -0 90)
 		)
 	)
 )

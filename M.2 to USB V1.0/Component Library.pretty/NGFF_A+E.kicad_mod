@@ -84,7 +84,7 @@
 		(uuid "a4a7757f-a148-40ae-a2cd-2bd5587b4954")
 	)
 	(fp_rect
-		(start -9.925 -2.55)
+		(start -9.925 -2.5)
 		(end 2.03 0)
 		(stroke
 			(width 0.1)
@@ -95,8 +95,8 @@
 		(uuid "9228670b-9565-4c5e-8803-144f937fee40")
 	)
 	(fp_rect
-		(start 3.23 -2.55)
-		(end 6.025 0)
+		(start 3.23 -2.5)
+		(end 6.03 0)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -106,11 +106,11 @@
 		(uuid "9d773b42-b83b-473d-b1c2-9b5705b33b09")
 	)
 	(fp_rect
-		(start 7.225 -2.55)
+		(start 7.225 -2.5)
 		(end 9.925 0)
 		(stroke
 			(width 0.1)
-			(type default)
+			(type solid)
 		)
 		(fill yes)
 		(layer "B.Mask")
