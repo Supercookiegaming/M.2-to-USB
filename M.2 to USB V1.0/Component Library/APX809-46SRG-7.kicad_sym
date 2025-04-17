@@ -58,7 +58,8 @@
 					(type default)
 				)
 				(fill
-					(type none)
+					(type color)
+					(color 255 255 194 1)
 				)
 			)
 		)

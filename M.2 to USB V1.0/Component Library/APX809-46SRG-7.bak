@@ -14,15 +14,15 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 0 0 0)
+		(property "Value" "APX809-46SRG-7"
+			(at 0 4.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Component Library:APX809-SR"
 			(at 0 0 0)
 			(effects
 				(font
