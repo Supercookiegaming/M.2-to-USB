@@ -1,4 +1,4 @@
-25311527191047857
+25301064210247462
 Athena KiCAd library
 mousebite
 
@@ -92708,13 +92708,6 @@ ZL40264LDF1
 21
 21
 SamacSys_Parts
-RH10010000105050TR
-RH100-10.000-10-5050-TR-2
-Crystal or Oscillator
-0
-4
-4
-SamacSys_Parts
 SOIC127P600X175-8N
 D0008B
 Integrated Circuit
@@ -92756,13 +92749,6 @@ Photodiode
 0
 2
 2
-SamacSys_Parts
-TPS61022RWUR
-TPS61022RWUR-2
-Power Supply
-0
-7
-7
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
@@ -101660,31 +101646,3 @@ Varistor VF
 0
 2
 2
-athenaLibrary
-M_dot_2_M3_mounting_hole
-
-
-0
-1
-1
-athenaLibrary
-S14605
-
-
-0
-2
-2
-athenaLibrary
-m3mount2
-
-
-0
-1
-1
-athenaLibrary
-thinSOICtoBoard
-
-
-0
-24
-24
