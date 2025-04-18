@@ -1,4 +1,4 @@
-# M.2-to-USB Adapter Card.
+# M.2-to-USB Adapter Card
 
 ![alt text][logo]
 
