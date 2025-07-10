@@ -1,4 +1,4 @@
-25357026538308450
+25416631985141619
 4p Gigabit Hat Library
 BGA256C100P16X16_1700X1700X201
 BGA256
@@ -14,6 +14,20 @@ HIROSE_FH12-16S-0.5SH_55_
 18
 18
 Athena KiCAd library
+2250477-1.0826-1X1T-JK-F
+
+
+0
+22
+22
+Athena KiCAd library
+Eaton-DRQ74
+
+
+0
+4
+4
+Athena KiCAd library
 M.2 Mounting Pad
 
 
@@ -21,12 +35,12 @@ M.2 Mounting Pad
 1
 1
 Athena KiCAd library
-Untitled
+WE-CFWI-1310
 
 
 0
-0
-0
+4
+4
 Athena KiCAd library
 mousebite
 
@@ -90369,6 +90383,174 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+Raspberry-Pi-CM4
+RaspberryPi-CM4-Carrier-Short-NPTH
+
+
+0
+200
+200
+Raspberry-Pi-CM4
+RaspberryPi-CM4-Carrier-Short-NPTH-Silk
+
+
+0
+200
+200
+Raspberry-Pi-CM4
+RaspberryPi-CM4-Carrier-Short-Pad
+
+
+0
+204
+200
+Raspberry-Pi-CM4
+RaspberryPi-CM4-Carrier-Short-Pad-Via
+
+
+0
+236
+200
+Raspberry-Pi-CM4
+RaspberryPi-CM4-Carrier-Tall-NPTH
+
+
+0
+200
+200
+Raspberry-Pi-CM4
+RaspberryPi-CM4-Carrier-Tall-NPTH-Silk
+
+
+0
+200
+200
+Raspberry-Pi-CM4
+RaspberryPi-CM4-Carrier-Tall-Pad
+
+
+0
+204
+200
+Raspberry-Pi-CM4
+RaspberryPi-CM4-Carrier-Tall-Pad-Via
+
+
+0
+236
+200
+Raspberry-Pi-CM4
+RaspberryPi-CM4-Module-NPTH
+
+
+0
+208
+208
+Raspberry-Pi-CM4
+RaspberryPi-CM4-Module-NPTH-Silk
+
+
+0
+208
+208
+Raspberry-Pi-CM4
+RaspberryPi-CM4-Module-Pad
+
+
+0
+212
+208
+Raspberry-Pi-CM4
+RaspberryPi-CM4-Module-Pad-Via
+
+
+0
+244
+208
+Raspberry-Pi-CM5
+RaspberryPi-CM5-Carrier-Short-NPTH
+
+
+0
+200
+200
+Raspberry-Pi-CM5
+RaspberryPi-CM5-Carrier-Short-NPTH-Silk
+
+
+0
+200
+200
+Raspberry-Pi-CM5
+RaspberryPi-CM5-Carrier-Short-Pad
+
+
+0
+204
+200
+Raspberry-Pi-CM5
+RaspberryPi-CM5-Carrier-Short-Pad-Via
+
+
+0
+236
+200
+Raspberry-Pi-CM5
+RaspberryPi-CM5-Carrier-Tall-NPTH
+
+
+0
+200
+200
+Raspberry-Pi-CM5
+RaspberryPi-CM5-Carrier-Tall-NPTH-Silk
+
+
+0
+200
+200
+Raspberry-Pi-CM5
+RaspberryPi-CM5-Carrier-Tall-Pad
+
+
+0
+204
+200
+Raspberry-Pi-CM5
+RaspberryPi-CM5-Carrier-Tall-Pad-Via
+
+
+0
+236
+200
+Raspberry-Pi-CM5
+RaspberryPi-CM5-Module-NPTH
+
+
+0
+208
+208
+Raspberry-Pi-CM5
+RaspberryPi-CM5-Module-NPTH-Silk
+
+
+0
+208
+208
+Raspberry-Pi-CM5
+RaspberryPi-CM5-Module-Pad
+
+
+0
+212
+208
+Raspberry-Pi-CM5
+RaspberryPi-CM5-Module-Pad-Via
+
+
+0
+244
+208
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
@@ -92715,6 +92897,13 @@ Integrated Circuit
 14
 14
 SamacSys_Parts
+CONBNC001
+CONBNC001-2
+Connector
+0
+5
+5
+SamacSys_Parts
 DRB8_1P75X1P5
 
 TPS61042DRBR 
@@ -92757,6 +92946,13 @@ Connector
 26
 26
 SamacSys_Parts
+INDPM2016X100N
+74404020068
+Inductor
+0
+2
+2
+SamacSys_Parts
 JS0408FP4
 JS0408FP4-5
 Switch
@@ -92777,6 +92973,13 @@ Integrated Circuit
 0
 19
 19
+SamacSys_Parts
+LMZM23601V5SILT
+SIL0010A
+Power Supply
+0
+11
+11
 SamacSys_Parts
 M.2-KEY-BLANK
 
@@ -92911,6 +93114,13 @@ Integrated Circuit
 25
 25
 SamacSys_Parts
+QFP50P1200X1200X160-64N
+QFP50P1200X1200X160-64N
+Integrated Circuit
+0
+64
+64
+SamacSys_Parts
 RH10010000105050TR
 RH100-10.000-10-5050-TR-2
 Crystal or Oscillator
@@ -92919,7 +93129,7 @@ Crystal or Oscillator
 4
 SamacSys_Parts
 SOIC127P600X175-8N
-D0008B
+SO-8 batwing
 Integrated Circuit
 0
 8
@@ -92960,6 +93170,13 @@ Photodiode
 2
 2
 SamacSys_Parts
+TPS40210DRCT
+DRC0010J_3x3_1h
+Integrated Circuit
+0
+15
+15
+SamacSys_Parts
 TPS54622RHLR
 RHL (S-PVQFN-N14)
 Integrated Circuit
@@ -92973,6 +93190,27 @@ Power Supply
 0
 7
 7
+SamacSys_Parts
+TPSM82903SISR
+SIS0011A
+Power Supply
+0
+11
+11
+SamacSys_Parts
+Texas_DRB0008A
+DFN-8, 3x3x1mm, http://www.ti.com/lit/ds/symlink/ucc24610.pdf
+DRB0008A
+0
+23
+9
+SamacSys_Parts
+Texas_R-PDSO-G5_DCK-5
+DCK R-PDSO-G5, JEDEC MO-203C Var AA, https://www.ti.com/lit/ds/symlink/tmp20.pdf#page=23
+DCK R-PDSO-G5 MO-203C
+0
+5
+5
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
