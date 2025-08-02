@@ -1,0 +1,219 @@
+(footprint "8-Lead UDFN"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -2.12 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "188511c3-d840-42e7-92bd-b9641f796da9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "8-Lead UDFN"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "0426a5a8-4ec0-412f-aa61-b94bd71faeca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "542aa783-e9fe-4d22-8d72-d9f1d3aa4ea2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "57ef9442-b9c6-4d97-917d-14d29d69b3a6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.1 -1.1)
+		(end -1.1 -1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "0121c74b-afae-4288-bb20-ba23674f3656")
+	)
+	(fp_line
+		(start -1.1 1.1)
+		(end -1.1 1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "0c7eb99a-d934-450a-92d4-1b0862733cb5")
+	)
+	(fp_line
+		(start 1.1 -1.1)
+		(end -1.1 -1.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "187c7b91-6482-4161-b937-8de0ae706d6b")
+	)
+	(fp_line
+		(start 1.1 -1.1)
+		(end 1.1 -1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "94e7ef0f-b94c-4454-86bc-d7487f148aab")
+	)
+	(fp_line
+		(start 1.1 1.1)
+		(end -1.1 1.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "71e24a16-9e85-4d81-acae-a01ec4d06f36")
+	)
+	(fp_line
+		(start 1.1 1.1)
+		(end 1.1 1)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "ca3a21a7-0df1-43ee-830b-d6ddc78eb1f3")
+	)
+	(fp_circle
+		(center -1.41 -1.2)
+		(end -1.41 -1.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "53c1ccf7-eead-49f0-8949-49e595a2da62")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ce77d545-ea2e-493e-8fae-9de957bcebb1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd oval
+		(at -0.95 -0.75 270)
+		(size 0.3 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "2c2f15c5-da7b-4ba3-9346-3da572782e9d")
+	)
+	(pad "2" smd oval
+		(at -0.95 -0.25 270)
+		(size 0.3 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "8e402611-8571-4491-8c0f-44a44c21cb41")
+	)
+	(pad "3" smd oval
+		(at -0.95 0.25 270)
+		(size 0.3 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "145949c0-9f96-4ccf-a53e-1a3a3c7ecdab")
+	)
+	(pad "4" smd oval
+		(at -0.95 0.75 270)
+		(size 0.3 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "5d1f52f7-f342-4af6-80c6-9ef69eea06fa")
+	)
+	(pad "5" smd oval
+		(at 0.95 0.75 270)
+		(size 0.3 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "2ddf120b-133c-4313-b25a-01b97c7a4e5c")
+	)
+	(pad "6" smd oval
+		(at 0.95 0.25 270)
+		(size 0.3 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "57a56e52-3211-49d6-9308-1c9fa6263e17")
+	)
+	(pad "7" smd oval
+		(at 0.95 -0.25 270)
+		(size 0.3 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "961ddd38-d0ae-49e3-805a-ea8a1b562a69")
+	)
+	(pad "8" smd oval
+		(at 0.95 -0.75 270)
+		(size 0.3 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "2bb84e79-19b5-4446-8a78-683f849f2ba6")
+	)
+	(pad "9" thru_hole rect
+		(at 0 0 270)
+		(size 1.3 0.7)
+		(drill 0.3)
+		(property pad_prop_heatsink)
+		(layers "*.Cu" "F.Mask" "F.Paste")
+		(remove_unused_layers no)
+		(zone_connect 2)
+		(thermal_bridge_angle 45)
+		(uuid "101d3717-1feb-4e6a-9f72-e4d8f39dcf35")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_USER_M2USB_REPO_DIR}/KiCad Files/M.2-to-USB-3D-Library/UDFN8_2X2_MCH.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

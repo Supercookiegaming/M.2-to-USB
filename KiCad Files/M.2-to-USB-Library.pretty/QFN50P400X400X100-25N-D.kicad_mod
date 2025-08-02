@@ -5,7 +5,7 @@
 	(layer "F.Cu")
 	(descr "USB2422T/MJ")
 	(tags "Integrated Circuit")
-	(property "Reference" "IC**"
+	(property "Reference" "REF**"
 		(at 0 -3.48 0)
 		(layer "F.SilkS")
 		(uuid "56009e56-bc03-412d-8187-b53128cd2e9a")
@@ -356,7 +356,7 @@
 		(uuid "18cbc3b6-5b8f-4dcd-aebe-a1e079bc78a5")
 	)
 	(embedded_fonts no)
-	(model "C:/Users/Tony/Documents/Github/M.2-to-USB/KiCad Files/M.2 to USB V1.0/Component Library/USB2422T_MJ.stp"
+	(model "${KICAD9_USER_M2USB_REPO_DIR}/KiCad Files/M.2-to-USB-3D-Library/USB2422T_MJ.stp"
 		(offset
 			(xyz 0 0 0)
 		)

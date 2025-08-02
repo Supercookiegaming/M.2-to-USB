@@ -306,7 +306,7 @@
 				)
 			)
 		)
-		(property "Footprint" "M.2-to-USB-Library:PinHeader_2x05_P2.54mm_Vertical_KEY_9"
+		(property "Footprint" ""
 			(at 0 0 0)
 			(effects
 				(font

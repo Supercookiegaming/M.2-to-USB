@@ -1,0 +1,130 @@
+(footprint "L_2520_INPAQ"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -1.755 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "f6936c66-b934-44d3-a210-7b26121bc874")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "L_2520_INPAQ"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "1ff0e44e-b371-466b-8647-e3ed3cc28f9a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5aeaeb98-ca59-4664-b005-89cbb302ed83")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c63f019d-d342-42d2-9c82-30ad715181af")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.55 -1.05)
+		(end 0.55 -1.05)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "d5fa6eaf-7ab0-4328-8d58-76e2fb39b390")
+	)
+	(fp_line
+		(start -0.55 1.05)
+		(end 0.55 1.05)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "ece9fa38-e7fa-4d4d-8a7e-8a4bb2b03329")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "16addd12-790e-4cec-b69a-034a5002f003")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "1b2d5462-a3d4-4c69-a86d-bf9a71e03f3c")
+		(effects
+			(font
+				(size 0.4 0.4)
+				(thickness 0.1)
+				(bold yes)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1 0)
+		(size 0.8 2)
+		(property pad_prop_heatsink)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "a84b8abc-9e02-4446-8817-1cc5b6460471")
+	)
+	(pad "2" smd rect
+		(at 1 0)
+		(size 0.8 2)
+		(property pad_prop_heatsink)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(thermal_bridge_angle 45)
+		(uuid "4a821ee3-d688-4a52-aa3c-b75b54e073a9")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_USER_M2USB_REPO_DIR}/KiCad Files/M.2-to-USB-3D-Library/Inpaq 2520 Inductor.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -90)
+		)
+	)
+)
