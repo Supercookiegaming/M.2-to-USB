@@ -58,7 +58,228 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "clearance|125075000|154830000|8580ec20-bdac-4cd6-9e0a-fc2b9f3fe994|9980d82f-d5c6-45ea-94da-5ce922981e2c",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|125575000|154830000|bf1ba817-3426-48f6-988d-53629a63aa7f|8580ec20-bdac-4cd6-9e0a-fc2b9f3fe994",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|125825000|154830000|be40087a-0b54-412f-9d79-1009d7c30c80|fb716df4-de78-49ee-8e9f-dc78e5c6b0e9",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|126075000|154830000|7c306eab-0967-48de-9489-911c045d9c5e|bf1ba817-3426-48f6-988d-53629a63aa7f",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|126325000|154830000|b471f8cc-35c4-4eb2-accd-aaa16fa1201b|be40087a-0b54-412f-9d79-1009d7c30c80",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|126575000|154830000|cb76e658-8f1f-4e8d-bd35-cce68958451c|7c306eab-0967-48de-9489-911c045d9c5e",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|126825000|154830000|83c817c1-026a-41d7-9a43-fca01da5b064|b471f8cc-35c4-4eb2-accd-aaa16fa1201b",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|127075000|154830000|d8721099-a7cc-4370-8682-0c89285d9485|cb76e658-8f1f-4e8d-bd35-cce68958451c",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|127325000|154830000|7cff7a96-c13e-456b-b9ae-a2ab26291184|83c817c1-026a-41d7-9a43-fca01da5b064",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|127575000|154830000|0016f638-ee9b-47c9-b3c2-958f9a01aec6|d8721099-a7cc-4370-8682-0c89285d9485",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|127825000|154830000|e79f0308-156c-4cdb-8c6f-cdccb512ee54|7cff7a96-c13e-456b-b9ae-a2ab26291184",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|128075000|154830000|d9050728-fbb5-44c3-b185-21edc965f904|0016f638-ee9b-47c9-b3c2-958f9a01aec6",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|128325000|154830000|b7701e4a-1ed1-4b5b-adec-08a5cc310a89|e79f0308-156c-4cdb-8c6f-cdccb512ee54",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|128575000|154830000|9208db78-927a-4f54-957e-d8551fb8666f|d9050728-fbb5-44c3-b185-21edc965f904",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|128825000|154830000|df5b66e9-2a01-400e-89ee-d9a9e9dd6cf8|b7701e4a-1ed1-4b5b-adec-08a5cc310a89",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|129075000|154830000|5bb2ee02-21d8-47df-8178-a6272f1e802c|9208db78-927a-4f54-957e-d8551fb8666f",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|129325000|154830000|589c793c-1edc-45e5-954a-94bd2e1d1e8a|df5b66e9-2a01-400e-89ee-d9a9e9dd6cf8",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|129575000|154830000|0d8188bf-f15b-4503-9da1-d1987b03eaea|5bb2ee02-21d8-47df-8178-a6272f1e802c",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|129825000|154830000|2a70bcd7-a74e-4a60-9b60-c96c532e47ce|589c793c-1edc-45e5-954a-94bd2e1d1e8a",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|130075000|154830000|65feca55-5158-4458-9269-a89eb058f450|0d8188bf-f15b-4503-9da1-d1987b03eaea",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|130325000|154830000|a723f0db-9121-42ef-a96f-99ae5d3cf484|2a70bcd7-a74e-4a60-9b60-c96c532e47ce",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|130575000|154830000|48276155-3990-4daf-abe1-5a3f3916108f|65feca55-5158-4458-9269-a89eb058f450",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|130825000|154830000|d9607991-14b4-4379-a0d1-7077647a6940|a723f0db-9121-42ef-a96f-99ae5d3cf484",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|131075000|154830000|6baf839c-536a-4f56-a66e-f1dd47c461ed|48276155-3990-4daf-abe1-5a3f3916108f",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|131325000|154830000|e54b8662-09a5-413a-a13c-4f91883a3f62|d9607991-14b4-4379-a0d1-7077647a6940",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|131575000|154830000|bea3be3a-4cac-4db7-b4a8-552d3975bbc5|6baf839c-536a-4f56-a66e-f1dd47c461ed",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|131825000|154830000|501ee2cd-6497-4676-9e89-7a5b0332558b|e54b8662-09a5-413a-a13c-4f91883a3f62",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|132075000|154830000|be5c7d93-cd39-4ae1-a3ff-6035e855b1bc|bea3be3a-4cac-4db7-b4a8-552d3975bbc5",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|132325000|154830000|f62caae9-8a4c-493c-bfff-843c7f39a75c|501ee2cd-6497-4676-9e89-7a5b0332558b",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|132575000|154830000|32d27e22-4adf-43b9-ada5-0be6ea34a465|be5c7d93-cd39-4ae1-a3ff-6035e855b1bc",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|132825000|154830000|4455244c-473e-49f5-ab4e-e6b98471de3d|f62caae9-8a4c-493c-bfff-843c7f39a75c",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|133075000|154830000|70b9f802-c640-40e4-9955-59be4022ab9c|32d27e22-4adf-43b9-ada5-0be6ea34a465",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|133325000|154830000|c3e5b90e-de6e-4f30-bea9-244b3313fe39|4455244c-473e-49f5-ab4e-e6b98471de3d",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|133575000|154830000|a5448998-897c-46f8-a098-1d8787460970|70b9f802-c640-40e4-9955-59be4022ab9c",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|133825000|154830000|ce546f83-8b2d-4f1b-b969-962d4227a668|c3e5b90e-de6e-4f30-bea9-244b3313fe39",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|134075000|154830000|f920772b-19ce-4fbe-9383-7b67efa28ccd|a5448998-897c-46f8-a098-1d8787460970",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|134325000|154830000|e79544f5-c415-4e20-bc22-eed6067d3de1|ce546f83-8b2d-4f1b-b969-962d4227a668",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|134575000|154830000|cf079c4a-8ac7-439a-9188-ef350764ea5b|f920772b-19ce-4fbe-9383-7b67efa28ccd",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|134825000|154830000|204a3470-fc75-447b-9cb4-6d1fce469c00|e79544f5-c415-4e20-bc22-eed6067d3de1",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|135075000|154830000|a60b07d5-4bbe-49d4-8fe5-1cdf478ad10f|cf079c4a-8ac7-439a-9188-ef350764ea5b",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|135325000|154830000|d90d5fd0-a8f3-407c-acc3-f6fe835eba5e|204a3470-fc75-447b-9cb4-6d1fce469c00",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|135855000|132930000|43c7740b-c920-4d01-94f5-cd857e745360|5eac64f6-b62b-46d0-b36c-e3494bc94b88",
+          "Does not need to follow net class clearance as it is part of footprint."
+        ],
+        [
+          "clearance|135855000|135730000|d40087e7-37a0-4133-b6e4-a10001117ec5|d94006b9-16d3-414d-a907-9560babdf38d",
+          "Does not need to follow net class clearance as it is part of footprint."
+        ],
+        [
+          "clearance|138075000|154830000|9fefc404-0f48-4e13-b239-f8125cd271fa|aecd425c-0b72-42f1-8fd6-4548ab124da4",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|138325000|154830000|0091baf1-b4b8-4de6-80ef-814dc322faa9|04298c9a-8c1f-4db4-ba24-aa8c1421bc37",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|138575000|154830000|59de3e3e-ff7b-4b72-a9ba-960220705fa0|9fefc404-0f48-4e13-b239-f8125cd271fa",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|138780000|135855000|8c12456f-b4c5-43e5-a009-00efaaf90a7d|80aabc57-ec53-40a0-a387-5bc9703b2716",
+          "Does not need to follow net class clearance as it is part of footprint."
+        ],
+        [
+          "clearance|138825000|154830000|a1dfda52-4570-46cb-a68a-4bc37dc14521|0091baf1-b4b8-4de6-80ef-814dc322faa9",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|138905000|132930000|4c9d8513-2b31-4c8c-ab95-8aed62bf8f5d|401985a9-8458-4744-b9b9-84bc7f7584c2",
+          "Does not need to follow net class clearance as it is part of footprint."
+        ],
+        [
+          "clearance|139075000|154830000|cb727c7d-25a8-4512-9250-4ce50b16fc8f|59de3e3e-ff7b-4b72-a9ba-960220705fa0",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|139325000|154830000|0d18c3ff-2635-4456-9c87-1910e86e3ac5|a1dfda52-4570-46cb-a68a-4bc37dc14521",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|142075000|154830000|75181c49-39ca-498d-ab04-13e051909e6f|35acf5e0-cb36-42f3-8e8d-9e7926e4ebfb",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|142325000|154830000|8e54f57b-99ab-4dc1-883e-7e260cfde37e|9f0108e1-f6a4-4c2e-b108-117211492797",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|142575000|154830000|bb24f661-3dbe-49c2-89c7-6db7d70fe822|75181c49-39ca-498d-ab04-13e051909e6f",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ],
+        [
+          "clearance|143075000|154830000|aa117979-0f2b-4d03-95e8-5854e9b04130|bb24f661-3dbe-49c2-89c7-6db7d70fe822",
+          "Part of M.2 Connector. Exempt from netclass clearance violations."
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -133,7 +354,7 @@
         "min_microvia_drill": 0.1,
         "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.8,
+        "min_text_height": 0.7,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.09,
@@ -221,7 +442,7 @@
           "drill": 0.0
         }
       ],
-      "zones_allow_external_fillets": false
+      "zones_allow_external_fillets": true
     },
     "ipc2581": {
       "dist": "",
