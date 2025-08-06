@@ -6175,7 +6175,7 @@
 	)
 	(global_label "VBUS1"
 		(shape input)
-		(at 358.14 66.04 0)
+		(at 358.14 63.5 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6185,7 +6185,7 @@
 		)
 		(uuid "186cfc5f-371e-4fbc-af3e-11a2f2b5b135")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 367.2333 66.04 0)
+			(at 367.2333 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6241,7 +6241,7 @@
 	)
 	(global_label "PRTEN2"
 		(shape input)
-		(at 283.21 66.04 180)
+		(at 283.21 68.58 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6251,7 +6251,7 @@
 		)
 		(uuid "30816fb0-c10c-4418-af52-ee87911a7299")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 273.0282 66.04 0)
+			(at 273.0282 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6263,22 +6263,22 @@
 	)
 	(global_label "VBUS2"
 		(shape input)
-		(at 374.65 209.55 0)
+		(at 354.33 209.55 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "370bf6fb-69ed-47fd-a7af-e3f314df5002")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 383.7433 209.55 0)
+			(at 345.2367 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -6329,7 +6329,7 @@
 	)
 	(global_label "~{FLT1}"
 		(shape input)
-		(at 321.31 68.58 0)
+		(at 321.31 60.96 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6339,7 +6339,7 @@
 		)
 		(uuid "6060d83f-24e9-4e63-adc3-e7503bb699dc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 328.589 68.58 0)
+			(at 328.589 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6549,7 +6549,7 @@
 	)
 	(global_label "~{FLT2}"
 		(shape input)
-		(at 321.31 60.96 0)
+		(at 321.31 68.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6559,7 +6559,7 @@
 		)
 		(uuid "c74af6aa-2b33-4842-851b-0efa6cf6cf17")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 328.589 60.96 0)
+			(at 328.589 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6571,7 +6571,7 @@
 	)
 	(global_label "VBUS2"
 		(shape input)
-		(at 358.14 63.5 0)
+		(at 358.14 66.04 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6581,7 +6581,7 @@
 		)
 		(uuid "cf9d5df2-aeb3-40d8-91f1-2a7c29aa65bc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 367.2333 63.5 0)
+			(at 367.2333 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6593,22 +6593,22 @@
 	)
 	(global_label "VBUS1"
 		(shape input)
-		(at 354.33 209.55 180)
+		(at 374.65 209.55 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "daaaf3ad-a520-4f01-bb57-223e5c4e6f2b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 345.2367 209.55 0)
+			(at 383.7433 209.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -6703,7 +6703,7 @@
 	)
 	(global_label "PRTEN1"
 		(shape input)
-		(at 283.21 68.58 180)
+		(at 283.21 66.04 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6713,7 +6713,7 @@
 		)
 		(uuid "f15ab3b5-441b-4d5f-a218-043d11c00180")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 273.0282 68.58 0)
+			(at 273.0282 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
