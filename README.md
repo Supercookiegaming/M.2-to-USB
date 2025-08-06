@@ -2,7 +2,7 @@
 
 ![alt text][logo]
 
-[logo]: https://github.com/Supercookiegaming/M.2-to-USB/blob/2936a5639fa30eb38225ca2c9cbda2b2fdbfaf95/Renders/3D/M.2%20to%20USB%203D%20Render.PNG
+[logo]: https://github.com/Supercookiegaming/M.2-to-USB/blob/e5bb598d8c8eeed5987f5072c87dc72d63cb6e1e/Renders/3D/M.2%20to%20USB%203D%20Render.JPG
 
 The M.2 to USB adapater uses the single USB 2.0 port on the A/E Key M.2 slot to make an USB front panel connector. The board uses the Microchip USB2422 2 port USB 2.0 hub IC. The hub allows 2 usb ports to be connected to the single port on the M.2 slot. This board is designed to handle 0.5 A per USB port, above that current the port will turn off. This was done because the M.2 slot can only provide 6.6 W. The 5V rail is made from the 3.3V found on the M.2 slot via a boost converter. 
 
