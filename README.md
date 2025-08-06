@@ -8,7 +8,7 @@ The M.2 to USB adapater uses the single USB 2.0 lane on the A/E Key M.2 slot to 
 ## Specifications
 1. 500mA per port
 2. Short circuit protection
-3. 2 USB 2.0 ports
+3. 2 USB 2.0 ports (combined into standard internal PC header)
 4. 2230 A & E Key compatibility
 ## Instructions
 
