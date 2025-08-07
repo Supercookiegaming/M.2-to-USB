@@ -1,6 +1,6 @@
 ## Kicad Install Instructions
 
-This project is dependant on my [PCIexpress-KiCad repository](https://github.com/Supercookiegaming/PCIexpress-KiCad/tree/89d8b5851c22fd8a89731272d48e080e1a528090). The linked commit of PCIexpress-KiCad is the version used in this project.
+This project is dependant on my [PCIexpress-KiCad repository](https://github.com/Supercookiegaming/PCIexpress-KiCad/commit/efb5ea7d4e6b977a15ab6a312c45c6d05c768622). The linked commit of PCIexpress-KiCad is the version used in this project.
 
 1. Clone the repository and its dependants to your desired location using your preferred method. For example 
 
