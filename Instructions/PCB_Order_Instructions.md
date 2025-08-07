@@ -2,7 +2,7 @@
 
 This project is designed to be built using JLCPCB with a specific stackup to ensure impedance on USB signals. If another stackup or manufacture is need, recalculating the impdance for the USB signals is required. It is recommened to use a calculator like the uSimmics Transmission Line Calculator Tool. This project used uSimmics 5.8 which can be downloaded [here](https://qucsstudio.de/download/). 
 
-The target differential impedance for USB 2.0 signals is 90Ω. In uSimmics the trace width, gap and clearence are modified so Z_odd is close 45Ω as seen in the calculation settings seen for this project. ![uSimmics Impedance Calculation](https://github.com/Supercookiegaming/M.2-to-USB/blob/d0a7d5f800da6a6be10bed91fd8a346197523a13/KiCad%20Files/M.2%20to%20USB/USB%20differntial%20impedance%20calculation.JPG)
+The target differential impedance for USB 2.0 signals is 90Ω. In uSimmics the trace width, gap and clearence are modified so Z_odd is close 45Ω as seen in the calculation settings seen for this project. ![uSimmics Impedance Calculation](/Instructions/Instruction_Pictures/USB_differntial_impedance_calculation.JPG)
 
 It recommened to also purchase a solder paste stencil for this board. 
 
