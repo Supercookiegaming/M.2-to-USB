@@ -8911,6 +8911,18 @@
 		(layer "Edge.Cuts")
 		(uuid "e280ba44-6b6c-4d3f-8f31-387c2ba9751b")
 	)
+	(gr_text "SuperCookie's M.2 to USB V1.1"
+		(at 133.96 147.79 0)
+		(layer "B.SilkS")
+		(uuid "998114b2-b584-416f-958b-99875ce1efc0")
+		(effects
+			(font
+				(size 0.9 0.9)
+				(thickness 0.15)
+			)
+			(justify bottom mirror)
+		)
+	)
 	(segment
 		(start 134.06 133.08)
 		(end 133.85 132.87)
